@@ -1,4 +1,4 @@
-# Pythonfire (Implementation python with firebase API)
+# Pythonfire (Python with Firebase API)
 
 Create a connection with firebase db in local enviroment, get and post data in real-time.
 
